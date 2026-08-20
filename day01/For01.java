@@ -14,10 +14,7 @@ public class For01 {
 		    sum += i;
 		}
 
-		System.out.printf(
-		    "1부터 %d까지의 합은 %d입니다.%n",
-		    num, sum
-		);
+		System.out.printf("1부터 %d까지의 합은 %d입니다.%n",num, sum);
 	}
 
 }
